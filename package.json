@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "regenerator-runtime-fix@*",
+        "scope": null,
+        "escapedName": "regenerator-runtime-fix",
+        "name": "regenerator-runtime-fix",
+        "rawSpec": "*",
+        "spec": "*",
+        "type": "range"
+      },
+      "/home/tema/go/src/github.com/avezila/srg/node_modules/babel-polyfill-fix"
+    ]
+  ],
+  "_from": "regenerator-runtime-fix@*",
+  "_id": "regenerator-runtime-fix@0.9.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/regenerator-runtime-fix",
+  "_nodeVersion": "6.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/regenerator-runtime-fix-0.9.5.tgz_1470251857588_0.8846721935551614"
+  },
+  "_npmUser": {
+    "name": "pioh",
+    "email": "thepioh@zoho.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "regenerator-runtime-fix@*",
+    "scope": null,
+    "escapedName": "regenerator-runtime-fix",
+    "name": "regenerator-runtime-fix",
+    "rawSpec": "*",
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/babel-polyfill-fix"
+  ],
+  "_resolved": "https://registry.npmjs.org/regenerator-runtime-fix/-/regenerator-runtime-fix-0.9.5.tgz",
+  "_shasum": "f76c52bd22da520fd713a799730029977c51c18f",
+  "_shrinkwrap": null,
+  "_spec": "regenerator-runtime-fix@*",
+  "_where": "/home/tema/go/src/github.com/avezila/srg/node_modules/babel-polyfill-fix",
+  "author": {
+    "name": "Ben Newman",
+    "email": "bn@cs.stanford.edu"
+  },
+  "dependencies": {},
+  "description": "Runtime for Regenerator-compiled generator and async functions.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "f76c52bd22da520fd713a799730029977c51c18f",
+    "tarball": "https://registry.npmjs.org/regenerator-runtime-fix/-/regenerator-runtime-fix-0.9.5.tgz"
+  },
+  "keywords": [
+    "regenerator",
+    "runtime",
+    "generator",
+    "async"
+  ],
+  "license": "MIT",
+  "main": "runtime-module.js",
+  "maintainers": [
+    {
+      "name": "benjamn",
+      "email": "bn@cs.stanford.edu"
+    }
+  ],
+  "name": "regenerator-runtime-fix",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime"
+  },
+  "scripts": {},
+  "version": "0.9.5"
+}
